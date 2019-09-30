@@ -11,3 +11,8 @@ rvty.net
 r.mateti.net
 www.krefft-medien.com
 krefft-medien.com
+mosaic01.ztat.net
+mosaic02.ztat.net
+mosaic03.ztat.net
+mosaic04.ztat.net
+mosaic05.ztat.net
