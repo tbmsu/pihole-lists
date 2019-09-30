@@ -7,6 +7,7 @@ delivery.selfcampaign.com
 s400.meetrics.net
 atonato.de
 ioam.de
+script.ioam.de
 rvty.net
 r.mateti.net
 www.krefft-medien.com
@@ -16,3 +17,10 @@ mosaic02.ztat.net
 mosaic03.ztat.net
 mosaic04.ztat.net
 mosaic05.ztat.net
+w.usabilla.com
+ccp-et.metrigo.zalan.do
+googleads.g.doubleclick.net
+static.doubleclick.net
+js-agent.newrelic.com
+tag.aticdn.net
+analytics.edgekey.net
