@@ -23,6 +23,9 @@ js-agent.newrelic.com
 tag.aticdn.net
 analytics.edgekey.net
 s62.mxcdn.net
+s79.mxcdn.net
 responder.wt-safetag.com
 widget.fitanalytics.com
 s.ytimg.com
+mafo.adalliance.io
+optout.adalliance.io
