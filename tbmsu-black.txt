@@ -19,11 +19,10 @@ mosaic04.ztat.net
 mosaic05.ztat.net
 w.usabilla.com
 ccp-et.metrigo.zalan.do
-googleads.g.doubleclick.net
-static.doubleclick.net
 js-agent.newrelic.com
 tag.aticdn.net
 analytics.edgekey.net
 s62.mxcdn.net
 responder.wt-safetag.com
 widget.fitanalytics.com
+s.ytimg.com
