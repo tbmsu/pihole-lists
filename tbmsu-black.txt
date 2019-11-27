@@ -26,7 +26,6 @@ mafo.adalliance.io
 optout.adalliance.io
 push.delivery.ethinking.de
 ssl-sz.met.vgwort.de
-i.scdn.co
 s-usc1c-nss-249.firebaseio.com
 stats.imageplangmbh.de
 yt3.ggpht.com
