@@ -38,3 +38,6 @@ id.google.de
 audev.zeit.de
 rns.matelso.de
 www.bloggerei.de
+cdn.bauernative.com
+ping-meta-prd.jwpltx.com
+prd.jwpltx.com
